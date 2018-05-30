@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-user = "ddesai2@gmail.com"
+user = "google@gmail.com"
 pwd = "humtum"
 driver = webdriver.Chrome('C:/Users/RRDD/Desktop/Automation/Python/Workspace/PY_TEST/drivers/chromedriver.exe')
 driver.get("http://www.facebook.com")
