@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 
 user = "google@gmail.com"
 pwd = "humtum"
-driver = webdriver.Chrome('C:/Users/RRDD/Desktop/Automation/Python/Workspace/PY_TEST/drivers/chromedriver.exe')
+driver = webdriver.Chrome('C:/Users/RRDD/Desktop/Automation/Python/GIT/PY_TEST/drivers/chromedriver.exe')
 driver.get("http://www.facebook.com")
 assert "Facebook" in driver.title
 elem = driver.find_element_by_id("email")
