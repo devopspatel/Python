@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PY_TEST</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>numpy</name>
+			<value>file:/C:/Users/desaidn/Desktop/Automation/Python/Download_Install/numpy-1.14.3/setup.py</value>
+		</variable>
+	</variableList>
+</projectDescription>
