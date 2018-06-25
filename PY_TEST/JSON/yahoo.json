@@ -1,0 +1,2635 @@
+{
+  "list": {
+    "meta": {
+      "type": "resource-list",
+      "start": 0,
+      "count": 188
+    },
+    "resources": [
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KRW",
+            "price": "1065.349976",
+            "symbol": "KRW=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "SILVER 1 OZ 999 NY",
+            "price": "0.059755",
+            "symbol": "XAG=X",
+            "ts": "1528300513",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:13+0000",
+            "volume": "36"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/VND",
+            "price": "22800.000000",
+            "symbol": "VND=X",
+            "ts": "1528297403",
+            "type": "currency",
+            "utctime": "2018-06-06T15:03:23+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BOB",
+            "price": "6.860000",
+            "symbol": "BOB=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MOP",
+            "price": "8.082400",
+            "symbol": "MOP=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BDT",
+            "price": "84.290001",
+            "symbol": "BDT=X",
+            "ts": "1528300372",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MDL",
+            "price": "16.735001",
+            "symbol": "MDL=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/VEF",
+            "price": "79800.000000",
+            "symbol": "VEF=X",
+            "ts": "1528297410",
+            "type": "currency",
+            "utctime": "2018-06-06T15:03:30+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GEL",
+            "price": "2.441100",
+            "symbol": "GEL=X",
+            "ts": "1528228806",
+            "type": "currency",
+            "utctime": "2018-06-05T20:00:06+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ISK",
+            "price": "104.949997",
+            "symbol": "ISK=X",
+            "ts": "1528298676",
+            "type": "currency",
+            "utctime": "2018-06-06T15:24:36+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BYR",
+            "price": "20020.000000",
+            "symbol": "BYR=X",
+            "ts": "1467293241",
+            "type": "currency",
+            "utctime": "2016-06-30T13:27:21+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/THB",
+            "price": "31.892000",
+            "symbol": "THB=X",
+            "ts": "1528300550",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:50+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MXV",
+            "price": "3.379518",
+            "symbol": "MXV=X",
+            "ts": "1528291800",
+            "type": "currency",
+            "utctime": "2018-06-06T13:30:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TND",
+            "price": "2.554700",
+            "symbol": "TND=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/JMD",
+            "price": "126.800003",
+            "symbol": "JMD=X",
+            "ts": "1528296852",
+            "type": "currency",
+            "utctime": "2018-06-06T14:54:12+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/DKK",
+            "price": "6.320930",
+            "symbol": "DKK=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SRD",
+            "price": "7.420000",
+            "symbol": "SRD=X",
+            "ts": "1528300382",
+            "type": "currency",
+            "utctime": "2018-06-06T15:53:02+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BWP",
+            "price": "9.995000",
+            "symbol": "BWP=X",
+            "ts": "1528273800",
+            "type": "currency",
+            "utctime": "2018-06-06T08:30:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/NOK",
+            "price": "8.078230",
+            "symbol": "NOK=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MUR",
+            "price": "34.049999",
+            "symbol": "MUR=X",
+            "ts": "1528297724",
+            "type": "currency",
+            "utctime": "2018-06-06T15:08:44+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AZN",
+            "price": "1.699500",
+            "symbol": "AZN=X",
+            "ts": "1528264810",
+            "type": "currency",
+            "utctime": "2018-06-06T06:00:10+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/INR",
+            "price": "66.864098",
+            "symbol": "INR=X",
+            "ts": "1528300560",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MGA",
+            "price": "3270.000000",
+            "symbol": "MGA=X",
+            "ts": "1527613531",
+            "type": "currency",
+            "utctime": "2018-05-29T17:05:31+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CAD",
+            "price": "1.290870",
+            "symbol": "CAD=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/XAF",
+            "price": "556.429993",
+            "symbol": "XAF=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LBP",
+            "price": "1505.000000",
+            "symbol": "LBP=X",
+            "ts": "1528300378",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:58+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/XDR",
+            "price": "0.704103",
+            "symbol": "XDR=X",
+            "ts": "1528290300",
+            "type": "currency",
+            "utctime": "2018-06-06T13:05:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/IDR",
+            "price": "13848.000000",
+            "symbol": "IDR=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/IEP",
+            "price": "0.699154",
+            "symbol": "IEP=X",
+            "ts": "1435035180",
+            "type": "currency",
+            "utctime": "2015-06-23T04:53:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AUD",
+            "price": "1.302500",
+            "symbol": "AUD=X",
+            "ts": "1528300560",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MMK",
+            "price": "1345.000000",
+            "symbol": "MMK=X",
+            "ts": "1528297498",
+            "type": "currency",
+            "utctime": "2018-06-06T15:04:58+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LYD",
+            "price": "1.358100",
+            "symbol": "LYD=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ZAR",
+            "price": "12.718700",
+            "symbol": "ZAR=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/IQD",
+            "price": "1184.000000",
+            "symbol": "IQD=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/XPF",
+            "price": "100.750000",
+            "symbol": "XPF=X",
+            "ts": "1528300528",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:28+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TJS",
+            "price": "9.037300",
+            "symbol": "TJS=X",
+            "ts": "1528250423",
+            "type": "currency",
+            "utctime": "2018-06-06T02:00:23+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CUP",
+            "price": "1.000000",
+            "symbol": "CUP=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/UGX",
+            "price": "3777.000000",
+            "symbol": "UGX=X",
+            "ts": "1528297975",
+            "type": "currency",
+            "utctime": "2018-06-06T15:12:55+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/NGN",
+            "price": "359.000000",
+            "symbol": "NGN=X",
+            "ts": "1528297105",
+            "type": "currency",
+            "utctime": "2018-06-06T14:58:25+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PGK",
+            "price": "3.150000",
+            "symbol": "PGK=X",
+            "ts": "1528298658",
+            "type": "currency",
+            "utctime": "2018-06-06T15:24:18+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TOP",
+            "price": "2.284300",
+            "symbol": "TOP=X",
+            "ts": "1528298400",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TMT",
+            "price": "3.400000",
+            "symbol": "TMT=X",
+            "ts": "1528298393",
+            "type": "currency",
+            "utctime": "2018-06-06T15:19:53+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KES",
+            "price": "100.900002",
+            "symbol": "KES=X",
+            "ts": "1528296914",
+            "type": "currency",
+            "utctime": "2018-06-06T14:55:14+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CRC",
+            "price": "564.000000",
+            "symbol": "CRC=X",
+            "ts": "1528300374",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:54+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MZN",
+            "price": "59.099998",
+            "symbol": "MZN=X",
+            "ts": "1528298439",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:39+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BYN",
+            "price": "2.000000",
+            "symbol": "BYN=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SYP",
+            "price": "514.979980",
+            "symbol": "SYP=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ANG",
+            "price": "1.790000",
+            "symbol": "ANG=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ZMW",
+            "price": "10.110000",
+            "symbol": "ZMW=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BRL",
+            "price": "3.821800",
+            "symbol": "BRL=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BSD",
+            "price": "0.990000",
+            "symbol": "BSD=X",
+            "ts": "1528300287",
+            "type": "currency",
+            "utctime": "2018-06-06T15:51:27+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/NIO",
+            "price": "31.209999",
+            "symbol": "NIO=X",
+            "ts": "1528298513",
+            "type": "currency",
+            "utctime": "2018-06-06T15:21:53+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GNF",
+            "price": "9005.000000",
+            "symbol": "GNF=X",
+            "ts": "1528300376",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:56+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BMD",
+            "price": "1.000000",
+            "symbol": "BMD=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SLL",
+            "price": "7655.000000",
+            "symbol": "SLL=X",
+            "ts": "1528297301",
+            "type": "currency",
+            "utctime": "2018-06-06T15:01:41+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MKD",
+            "price": "51.980000",
+            "symbol": "MKD=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BIF",
+            "price": "1750.000000",
+            "symbol": "BIF=X",
+            "ts": "1528300273",
+            "type": "currency",
+            "utctime": "2018-06-06T15:51:13+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LAK",
+            "price": "8340.000000",
+            "symbol": "LAK=X",
+            "ts": "1528297094",
+            "type": "currency",
+            "utctime": "2018-06-06T14:58:14+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BHD",
+            "price": "0.377400",
+            "symbol": "BHD=X",
+            "ts": "1528300504",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:04+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SHP",
+            "price": "0.744900",
+            "symbol": "SHP=X",
+            "ts": "1528286400",
+            "type": "currency",
+            "utctime": "2018-06-06T12:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BGN",
+            "price": "1.662400",
+            "symbol": "BGN=X",
+            "ts": "1528294514",
+            "type": "currency",
+            "utctime": "2018-06-06T14:15:14+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SGD",
+            "price": "1.332190",
+            "symbol": "SGD=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CNY",
+            "price": "6.384900",
+            "symbol": "CNY=X",
+            "ts": "1528298350",
+            "type": "currency",
+            "utctime": "2018-06-06T15:19:10+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/EUR",
+            "price": "0.848800",
+            "symbol": "EUR=X",
+            "ts": "1528300560",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TTD",
+            "price": "6.733100",
+            "symbol": "TTD=X",
+            "ts": "1528300332",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:12+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SCR",
+            "price": "13.430000",
+            "symbol": "SCR=X",
+            "ts": "1528300382",
+            "type": "currency",
+            "utctime": "2018-06-06T15:53:02+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BBD",
+            "price": "2.000000",
+            "symbol": "BBD=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SBD",
+            "price": "7.915200",
+            "symbol": "SBD=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MAD",
+            "price": "9.431000",
+            "symbol": "MAD=X",
+            "ts": "1528300565",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:05+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GTQ",
+            "price": "7.336000",
+            "symbol": "GTQ=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MWK",
+            "price": "713.440002",
+            "symbol": "MWK=X",
+            "ts": "1528298441",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:41+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PKR",
+            "price": "115.510002",
+            "symbol": "PKR=X",
+            "ts": "1528299010",
+            "type": "currency",
+            "utctime": "2018-06-06T15:30:10+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ITL",
+            "price": "1700.272217",
+            "symbol": "ITL=X",
+            "ts": "1487964871",
+            "type": "currency",
+            "utctime": "2017-02-24T19:34:31+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PEN",
+            "price": "3.256500",
+            "symbol": "PEN=X",
+            "ts": "1528300224",
+            "type": "currency",
+            "utctime": "2018-06-06T15:50:24+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AED",
+            "price": "3.672700",
+            "symbol": "AED=X",
+            "ts": "1528300370",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:50+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LVL",
+            "price": "0.620550",
+            "symbol": "LVL=X",
+            "ts": "1434962220",
+            "type": "currency",
+            "utctime": "2015-06-22T08:37:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "PALLADIUM 1 OZ",
+            "price": "0.000991",
+            "symbol": "XPD=X",
+            "ts": "1528300514",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:14+0000",
+            "volume": "145"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/UAH",
+            "price": "26.150000",
+            "symbol": "UAH=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/FRF",
+            "price": "1700.272217",
+            "symbol": "FRF=X",
+            "ts": "1488230469",
+            "type": "currency",
+            "utctime": "2017-02-27T21:21:09+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LRD",
+            "price": "138.270004",
+            "symbol": "LRD=X",
+            "ts": "1528297094",
+            "type": "currency",
+            "utctime": "2018-06-06T14:58:14+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LSL",
+            "price": "12.720000",
+            "symbol": "LSL=X",
+            "ts": "1528297087",
+            "type": "currency",
+            "utctime": "2018-06-06T14:58:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SEK",
+            "price": "8.728150",
+            "symbol": "SEK=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/RON",
+            "price": "3.947500",
+            "symbol": "RON=X",
+            "ts": "1528300566",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:06+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/XOF",
+            "price": "556.429993",
+            "symbol": "XOF=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/COP",
+            "price": "2820.500000",
+            "symbol": "COP=X",
+            "ts": "1528300561",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:01+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CDF",
+            "price": "1565.500000",
+            "symbol": "CDF=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD",
+            "price": "1.000000",
+            "symbol": "USD=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TZS",
+            "price": "2272.000000",
+            "symbol": "TZS=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GHS",
+            "price": "4.698500",
+            "symbol": "GHS=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/NPR",
+            "price": "107.000000",
+            "symbol": "NPR=X",
+            "ts": "1528284744",
+            "type": "currency",
+            "utctime": "2018-06-06T11:32:24+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ZWL",
+            "price": "322.355011",
+            "symbol": "ZWL=X",
+            "ts": "1467328380",
+            "type": "currency",
+            "utctime": "2016-06-30T23:13:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SOS",
+            "price": "562.000000",
+            "symbol": "SOS=X",
+            "ts": "1528297304",
+            "type": "currency",
+            "utctime": "2018-06-06T15:01:44+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/DZD",
+            "price": "115.966003",
+            "symbol": "DZD=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/FKP",
+            "price": "0.744700",
+            "symbol": "FKP=X",
+            "ts": "1528286400",
+            "type": "currency",
+            "utctime": "2018-06-06T12:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LKR",
+            "price": "158.600006",
+            "symbol": "LKR=X",
+            "ts": "1528284745",
+            "type": "currency",
+            "utctime": "2018-06-06T11:32:25+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/JPY",
+            "price": "109.985001",
+            "symbol": "JPY=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CHF",
+            "price": "0.984340",
+            "symbol": "CHF=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KYD",
+            "price": "0.820000",
+            "symbol": "KYD=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CLP",
+            "price": "628.539978",
+            "symbol": "CLP=X",
+            "ts": "1528300563",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:03+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/IRR",
+            "price": "42165.000000",
+            "symbol": "IRR=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AFN",
+            "price": "71.099998",
+            "symbol": "AFN=X",
+            "ts": "1528300370",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:50+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/DJF",
+            "price": "177.500000",
+            "symbol": "DJF=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SVC",
+            "price": "8.750000",
+            "symbol": "SVC=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PLN",
+            "price": "3.619200",
+            "symbol": "PLN=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PYG",
+            "price": "5667.399902",
+            "symbol": "PYG=X",
+            "ts": "1528300205",
+            "type": "currency",
+            "utctime": "2018-06-06T15:50:05+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ERN",
+            "price": "14.990000",
+            "symbol": "ERN=X",
+            "ts": "1528300374",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:54+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ETB",
+            "price": "27.200001",
+            "symbol": "ETB=X",
+            "ts": "1528298519",
+            "type": "currency",
+            "utctime": "2018-06-06T15:21:59+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ILS",
+            "price": "3.563400",
+            "symbol": "ILS=X",
+            "ts": "1528300563",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:03+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TWD",
+            "price": "29.693001",
+            "symbol": "TWD=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KPW",
+            "price": "900.000000",
+            "symbol": "KPW=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SIT",
+            "price": "216.486755",
+            "symbol": "SIT=X",
+            "ts": "1438003500",
+            "type": "currency",
+            "utctime": "2015-07-27T13:25:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GIP",
+            "price": "0.744900",
+            "symbol": "GIP=X",
+            "ts": "1528286400",
+            "type": "currency",
+            "utctime": "2018-06-06T12:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BND",
+            "price": "1.321300",
+            "symbol": "BND=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HNL",
+            "price": "23.858999",
+            "symbol": "HNL=X",
+            "ts": "1528300376",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:56+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CZK",
+            "price": "21.788700",
+            "symbol": "CZK=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HUF",
+            "price": "269.899994",
+            "symbol": "HUF=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BZD",
+            "price": "1.997800",
+            "symbol": "BZD=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/DEM",
+            "price": "1.717450",
+            "symbol": "DEM=X",
+            "ts": "1434958500",
+            "type": "currency",
+            "utctime": "2015-06-22T07:35:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/JOD",
+            "price": "0.708500",
+            "symbol": "JOD=X",
+            "ts": "1528300376",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:56+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/RWF",
+            "price": "848.200012",
+            "symbol": "RWF=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/LTL",
+            "price": "3.048700",
+            "symbol": "LTL=X",
+            "ts": "1434962340",
+            "type": "currency",
+            "utctime": "2015-06-22T08:39:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/RUB",
+            "price": "61.945999",
+            "symbol": "RUB=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/RSD",
+            "price": "100.490898",
+            "symbol": "RSD=X",
+            "ts": "1528273814",
+            "type": "currency",
+            "utctime": "2018-06-06T08:30:14+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/WST",
+            "price": "2.562900",
+            "symbol": "WST=X",
+            "ts": "1528298400",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "PLATINUM 1 UZ 999",
+            "price": "0.001103",
+            "symbol": "XPT=X",
+            "ts": "1528300514",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:14+0000",
+            "volume": "490"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/NAD",
+            "price": "12.729000",
+            "symbol": "NAD=X",
+            "ts": "1528298306",
+            "type": "currency",
+            "utctime": "2018-06-06T15:18:26+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PAB",
+            "price": "1.000000",
+            "symbol": "PAB=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/DOP",
+            "price": "49.520000",
+            "symbol": "DOP=X",
+            "ts": "1528300374",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:54+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ALL",
+            "price": "105.300003",
+            "symbol": "ALL=X",
+            "ts": "1528298666",
+            "type": "currency",
+            "utctime": "2018-06-06T15:24:26+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HTG",
+            "price": "63.009998",
+            "symbol": "HTG=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AMD",
+            "price": "482.799988",
+            "symbol": "AMD=X",
+            "ts": "1528286148",
+            "type": "currency",
+            "utctime": "2018-06-06T11:55:48+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KMF",
+            "price": "416.959991",
+            "symbol": "KMF=X",
+            "ts": "1528298445",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:45+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MRO",
+            "price": "354.000000",
+            "symbol": "MRO=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HRK",
+            "price": "6.268000",
+            "symbol": "HRK=X",
+            "ts": "1528300561",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:01+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HTG",
+            "price": "63.009998",
+            "symbol": "HTG=X",
+            "ts": "1528296772",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:52+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KHR",
+            "price": "4065.000000",
+            "symbol": "KHR=X",
+            "ts": "1528296917",
+            "type": "currency",
+            "utctime": "2018-06-06T14:55:17+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/PHP",
+            "price": "52.380001",
+            "symbol": "PHP=X",
+            "ts": "1528300567",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {}
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KWD",
+            "price": "0.301800",
+            "symbol": "KWD=X",
+            "ts": "1528299310",
+            "type": "currency",
+            "utctime": "2018-06-06T15:35:10+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/XCD",
+            "price": "2.700000",
+            "symbol": "XCD=X",
+            "ts": "1528297200",
+            "type": "currency",
+            "utctime": "2018-06-06T15:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "COPPER HIGHGRADE",
+            "price": "0.307220",
+            "symbol": "XCP=X",
+            "ts": "1528300514",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:14+0000",
+            "volume": "20"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CNH",
+            "price": "6.379200",
+            "symbol": "CNH=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SDG",
+            "price": "17.955200",
+            "symbol": "SDG=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CLF",
+            "price": "0.022930",
+            "symbol": "CLF=X",
+            "ts": "1528298400",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KZT",
+            "price": "331.959991",
+            "symbol": "KZT=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TRY",
+            "price": "4.556500",
+            "symbol": "TRY=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/FJD",
+            "price": "2.050000",
+            "symbol": "FJD=X",
+            "ts": "1528298836",
+            "type": "currency",
+            "utctime": "2018-06-06T15:27:16+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/NZD",
+            "price": "1.419300",
+            "symbol": "NZD=X",
+            "ts": "1528300560",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BAM",
+            "price": "1.662900",
+            "symbol": "BAM=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BTN",
+            "price": "67.150002",
+            "symbol": "BTN=X",
+            "ts": "1528262803",
+            "type": "currency",
+            "utctime": "2018-06-06T05:26:43+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/STD",
+            "price": "20806.699219",
+            "symbol": "STD=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/VUV",
+            "price": "106.580002",
+            "symbol": "VUV=X",
+            "ts": "1528298008",
+            "type": "currency",
+            "utctime": "2018-06-06T15:13:28+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MVR",
+            "price": "15.210000",
+            "symbol": "MVR=X",
+            "ts": "1528296367",
+            "type": "currency",
+            "utctime": "2018-06-06T14:46:07+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AOA",
+            "price": "238.072998",
+            "symbol": "AOA=X",
+            "ts": "1528239611",
+            "type": "currency",
+            "utctime": "2018-06-05T23:00:11+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/EGP",
+            "price": "17.840000",
+            "symbol": "EGP=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/QAR",
+            "price": "3.639800",
+            "symbol": "QAR=X",
+            "ts": "1528300563",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:03+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/OMR",
+            "price": "0.384800",
+            "symbol": "OMR=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CVE",
+            "price": "93.639999",
+            "symbol": "CVE=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KGS",
+            "price": "68.425003",
+            "symbol": "KGS=X",
+            "ts": "1528279222",
+            "type": "currency",
+            "utctime": "2018-06-06T10:00:22+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MXN",
+            "price": "20.267200",
+            "symbol": "MXN=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MYR",
+            "price": "3.972000",
+            "symbol": "MYR=X",
+            "ts": "1528297391",
+            "type": "currency",
+            "utctime": "2018-06-06T15:03:11+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GYD",
+            "price": "207.479996",
+            "symbol": "GYD=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SZL",
+            "price": "12.714800",
+            "symbol": "SZL=X",
+            "ts": "1528300532",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:32+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/YER",
+            "price": "249.899994",
+            "symbol": "YER=X",
+            "ts": "1528298439",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:39+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SAR",
+            "price": "3.749800",
+            "symbol": "SAR=X",
+            "ts": "1528298355",
+            "type": "currency",
+            "utctime": "2018-06-06T15:19:15+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/UYU",
+            "price": "31.090000",
+            "symbol": "UYU=X",
+            "ts": "1528298444",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:44+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GBP",
+            "price": "0.744710",
+            "symbol": "GBP=X",
+            "ts": "1528300560",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/UZS",
+            "price": "7924.000000",
+            "symbol": "UZS=X",
+            "ts": "1528298731",
+            "type": "currency",
+            "utctime": "2018-06-06T15:25:31+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GMD",
+            "price": "46.860001",
+            "symbol": "GMD=X",
+            "ts": "1528290084",
+            "type": "currency",
+            "utctime": "2018-06-06T13:01:24+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AWG",
+            "price": "1.780000",
+            "symbol": "AWG=X",
+            "ts": "1528296771",
+            "type": "currency",
+            "utctime": "2018-06-06T14:52:51+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MNT",
+            "price": "2398.000000",
+            "symbol": "MNT=X",
+            "ts": "1528297500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:05:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "XAU=X",
+            "price": "0.000767",
+            "symbol": "XAU=X",
+            "ts": "1528300513",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:13+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HKD",
+            "price": "7.847190",
+            "symbol": "HKD=X",
+            "ts": "1528300565",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:05+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ARS",
+            "price": "24.914000",
+            "symbol": "ARS=X",
+            "ts": "1528300549",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:49+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/HUX",
+            "price": "271.600006",
+            "symbol": "HUX=X",
+            "ts": "1528281015",
+            "type": "currency",
+            "utctime": "2018-06-06T10:30:15+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/FKP",
+            "price": "0.744700",
+            "symbol": "FKP=X",
+            "ts": "1528286400",
+            "type": "currency",
+            "utctime": "2018-06-06T12:00:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CHF",
+            "price": "0.984340",
+            "symbol": "CHF=X",
+            "ts": "1528300568",
+            "type": "currency",
+            "utctime": "2018-06-06T15:56:08+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/GEL",
+            "price": "2.441100",
+            "symbol": "GEL=X",
+            "ts": "1528228806",
+            "type": "currency",
+            "utctime": "2018-06-05T20:00:06+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/MOP",
+            "price": "8.082400",
+            "symbol": "MOP=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/SIT",
+            "price": "216.486755",
+            "symbol": "SIT=X",
+            "ts": "1438003500",
+            "type": "currency",
+            "utctime": "2015-07-27T13:25:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/KMF",
+            "price": "416.959991",
+            "symbol": "KMF=X",
+            "ts": "1528298445",
+            "type": "currency",
+            "utctime": "2018-06-06T15:20:45+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ZWL",
+            "price": "322.355011",
+            "symbol": "ZWL=X",
+            "ts": "1467328380",
+            "type": "currency",
+            "utctime": "2016-06-30T23:13:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BAM",
+            "price": "1.662900",
+            "symbol": "BAM=X",
+            "ts": "1528300500",
+            "type": "currency",
+            "utctime": "2018-06-06T15:55:00+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/AOA",
+            "price": "238.072998",
+            "symbol": "AOA=X",
+            "ts": "1528239611",
+            "type": "currency",
+            "utctime": "2018-06-05T23:00:11+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/CNY",
+            "price": "6.384900",
+            "symbol": "CNY=X",
+            "ts": "1528298350",
+            "type": "currency",
+            "utctime": "2018-06-06T15:19:10+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/TTD",
+            "price": "6.733100",
+            "symbol": "TTD=X",
+            "ts": "1528300332",
+            "type": "currency",
+            "utctime": "2018-06-06T15:52:12+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/BRX",
+            "price": "3.774600",
+            "symbol": "BRX=X",
+            "ts": "1528215302",
+            "type": "currency",
+            "utctime": "2018-06-05T16:15:02+0000",
+            "volume": "0"
+          }
+        }
+      },
+      {
+        "resource": {
+          "classname": "Quote",
+          "fields": {
+            "name": "USD/ECS",
+            "price": "25000.000000",
+            "symbol": "ECS=X",
+            "ts": "1487964442",
+            "type": "currency",
+            "utctime": "2017-02-24T19:27:22+0000",
+            "volume": "0"
+          }
+        }
+      }
+    ]
+  }
+}
