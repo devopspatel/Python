@@ -9,4 +9,4 @@ for state in data['states']:
     del state['abbreviation']
 
 with open('new_states.json', 'w') as wf:
-    json.dump(data, wf, indent=2)
+        json.dump(data, wf, indent=2)
