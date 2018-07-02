@@ -1,0 +1,69 @@
+[
+  "Data from JSON Folder",
+  {
+    "Data_Import.py": {
+      "Creation Time": "18-06-05 14:34:30",
+      "Modified Time": "18-06-05 15:03:51"
+    },
+    "Data_Import_AWS_AIM.py": {
+      "Creation Time": "18-06-15 14:23:27",
+      "Modified Time": "18-06-22 15:19:12"
+    },
+    "DND_5323.JPG": {
+      "Creation Time": "18-06-05 16:22:59",
+      "Modified Time": "16-03-25 20:05:42"
+    },
+    "File_Binary_Obj.py": {
+      "Creation Time": "18-06-05 16:19:55",
+      "Modified Time": "18-06-05 16:31:28"
+    },
+    "file_data.json": {
+      "Creation Time": "18-07-02 13:21:41",
+      "Modified Time": "18-07-02 13:23:11"
+    },
+    "File_Modified_DTTM.py": {
+      "Creation Time": "18-07-02 10:55:38",
+      "Modified Time": "18-07-02 13:50:01"
+    },
+    "File_Obj.py": {
+      "Creation Time": "18-06-05 15:04:31",
+      "Modified Time": "18-07-02 11:50:18"
+    },
+    "JSON_Test_1.py": {
+      "Creation Time": "18-07-01 09:19:57",
+      "Modified Time": "18-07-01 09:41:15"
+    },
+    "JSON_US_States.py": {
+      "Creation Time": "18-06-05 16:34:19",
+      "Modified Time": "18-07-01 10:53:52"
+    },
+    "JSON_Yahoo_Finance.py": {
+      "Creation Time": "18-06-05 16:48:44",
+      "Modified Time": "18-06-06 13:57:13"
+    },
+    "RE_JSON_US_States.py": {
+      "Creation Time": "18-07-01 09:46:00",
+      "Modified Time": "18-07-01 10:53:56"
+    },
+    "Sample.json": {
+      "Creation Time": "18-07-01 09:23:26",
+      "Modified Time": "18-07-01 09:29:31"
+    },
+    "Sample.txt": {
+      "Creation Time": "18-06-05 16:04:50",
+      "Modified Time": "18-06-05 16:06:46"
+    },
+    "states.json": {
+      "Creation Time": "18-06-05 15:07:37",
+      "Modified Time": "18-07-01 09:50:58"
+    },
+    "yahoo.json": {
+      "Creation Time": "18-06-05 17:05:31",
+      "Modified Time": "18-06-06 11:56:11"
+    },
+    "__pycache__": {
+      "Creation Time": "18-06-05 16:25:01",
+      "Modified Time": "18-06-05 16:25:01"
+    }
+  }
+]
