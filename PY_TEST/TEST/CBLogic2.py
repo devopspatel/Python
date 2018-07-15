@@ -28,15 +28,14 @@ def lone_sum(a, b, c):
 
 
 def lucky_sum(a, b, c):
-	  sum = a + b + c
-  
+	sum = a + b + c
 	if (a == 13):
 		sum = 0
   	elif (b == 13):
-      	sum = a
+  		sum = a
   	elif (c == 13):
-	    sum = a + b
-  
+  		sum = a + b
+  	
   	return sum
 
 

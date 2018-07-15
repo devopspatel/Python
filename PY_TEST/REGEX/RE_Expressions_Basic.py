@@ -1,5 +1,4 @@
 import re
-from jinja2._identifier import pattern
 
 text_to_search = '''
 abcdefghijklmnopqrstuvwxyz
