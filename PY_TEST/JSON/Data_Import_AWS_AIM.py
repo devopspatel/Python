@@ -22,5 +22,5 @@ print(d['Statement'])
 print(d['Statement'][0])
 print(d['Statement'][0]['Effect'])
 print(d['Statement'][0]['Action'])
-print(d['Statement'][0]['Action'][0])
+print(d['Statement'][0]['Action'][0]),
 print(d['Statement'][0]['Action'][1])

@@ -42,8 +42,11 @@ sentense = 'Start a sentence and then bring it to an end'
 # pattern = re.compile(r'\s')
 # pattern = re.compile(r'[^b]at')
 # pattern = re.compile(r'\d{3}.\d{3}.\d{4}')
+
+pattern = re.compile(r'\d{3}.\d{3}.\d{4}')
+
 # pattern = re.compile(r'Mr\.?\s[A-Z]\w*')
-pattern = re.compile(r'(Mr|Mrs|Ms)\.?\s[A-Z]\w*')
+# pattern = re.compile(r'(Mr|Mrs|Ms)\.?\s[A-Z]\w*')
 
 matches = pattern.finditer(text_to_search)
 #matches = pattern.finditer(sentense)
