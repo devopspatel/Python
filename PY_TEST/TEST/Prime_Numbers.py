@@ -13,5 +13,5 @@ def prime(n):
         i += 1
     return (l)
 
-n = 310
+n = 20
 print (f'PRIMEs: {n} >> {prime(n)}')

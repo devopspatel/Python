@@ -71,6 +71,9 @@ def answer(n):
     
     return Q[n][n - 1]
 
-if __name__ == '__main__':
-    for bricks in range(3, 201):
-        print(f'{bricks} >> {answer(bricks)}')
+# if __name__ == '__main__':
+#     for bricks in range(3, 201):
+#         print(f'{bricks} >> {answer(bricks)}')
+        
+for bricks in range(3, 201):
+    print(f'{bricks} >> {answer(bricks)}')
