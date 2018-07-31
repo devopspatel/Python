@@ -7,14 +7,10 @@ def answer(l):
             if (l[j]%l[i] == 0):
                 for k in range(j+1, len(l)):
                     if (l[k]%l[j] == 0):
-#                         tups.append([l[i], l[j], l[k]])
                         count += 1
     
-#     print (f'TUPS: {tups}')
     return count
     
-
-
 # LENGTH OF L <= 2000
 # VALUES OF Li <= 999999
 
