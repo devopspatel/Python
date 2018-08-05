@@ -2,19 +2,28 @@
 # print("this is a debug message")
 
 def solution(S, C):
+    e_dict = {}
     emails = []
-    temp_e = ''
+    e_temp = ''
     names = S.split(', ')
     
     for name in names:
         temp = name.replace('-', '').split(' ')
         
         if (len(temp) == 2):
-            temp_e = temp[1].lower() + '_' + temp[0][0].lower()
+            e_temp = temp[1].lower() + '_' + temp[0][0].lower()
         else:
-            temp_e = temp[2].lower() + '_' + temp[0][0].lower() + '_' + temp[1][0].lower()
+            e_temp = temp[2].lower() + '_' + temp[0][0].lower() + '_' + temp[1][0].lower()
         
-        emails.append(temp_e + '@' + C.lower() + '.com')
+        try:
+            e_dict[e_temp] = e_dict.get(e_temp) + 1
+            e_temp += str(e_dict[e_temp])
+        except Exception:
+            e_dict[e_temp] = 0
+        
+        emails.append(e_temp + '@' + C.lower() + '.com')
+        
+    print (e_dict)
     return ', '.join(emails)
     
 #     for i in range(emails)
@@ -24,7 +33,6 @@ C = 'example'
 
 bb = solution(S, C)
 print (bb)
-
 
 ###############################################################################################
 
