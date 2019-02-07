@@ -101,7 +101,7 @@ def selection_sort_v3(l):
 @time_it
 def selection_sort_v4(l):
     loop_count = 0
-    for i in range(len(l):
+    for i in range(len(l)):
         l.append(l.pop(l.index(min(l[:len(l)-i]))))
         loop_count += 1
     print ('SELECTION SORT V4 LOOP COUNT: {0}'.format(loop_count))
