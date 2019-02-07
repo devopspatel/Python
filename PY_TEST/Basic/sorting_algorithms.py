@@ -11,11 +11,11 @@ def refactor_l():
 def time_it(func):
     def wrapper(*args, **kwargs):
         start = datetime.datetime.now()
-        print (f'START: {start}')
+        print ('START: {0}'.format(start))
         result = func(*args, **kwargs)
         end = datetime.datetime.now()
-        print (f'END: {end}')
-        print (f'{func.__name__} >> TIME DELTA: {end - start}')
+        print ('END: {0}'.format(end))
+        print ('{0} >> TIME DELTA: {1}'.format(func.__name__, end - start))
         return result
     return wrapper
 
@@ -30,10 +30,10 @@ def ascending_sort_v1(l):
             l.insert(j, l.pop(i)) if l[i] < l[j] else ''
             loop_count += 1
 #         print (f'\tAFTER J LOOP: {l}')
-    print (f'ASCENDING SORT V1 LOOP COUNT: {loop_count}')
+    print ('ASCENDING SORT V1 LOOP COUNT: {0}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
- 
+
 # BASIC ASCENDING SORT - V2
 @time_it
 def ascending_sort_v2(l):
@@ -42,7 +42,7 @@ def ascending_sort_v2(l):
         l.insert(i, l.pop(l.index(min(l[i:len(l)]))))
         loop_count += 1
 #         print (f'LOOP {i} > {l}')
-    print (f'ASCENDING SORT V2 LOOP COUNT: {loop_count}')
+    print ('ASCENDING SORT V2 LOOP COUNT: {0}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
 
@@ -58,7 +58,7 @@ def bubble_sort(l):
             l.insert(j, l.pop(j+1)) if (l[j] > l[j+1]) else ''
             loop_count += 1
 #         print (f'\tAFTER J LOOP: {l}')
-    print (f'BUBBLE SORT V1 LOOP COUNT: {loop_count}')
+    print ('BUBBLE SORT V1 LOOP COUNT: {0}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
 
@@ -73,7 +73,7 @@ def selection_sort(l):
         for j in range(len(l) - i - 1):
             l.insert(j + 1, l.pop(j)) if (l[j] > l[j + 1]) else ''
             loop_count += 1
-    print (f'SELECTION SORT V1 LOOP COUNT: {loop_count}')
+    print ('SELECTION SORT V1 LOOP COUNT: {0}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
 
@@ -84,7 +84,7 @@ def selection_sort_v2(l):
     for i in range(len(l), 0, -1):
         l.insert(i, l.pop(l.index(max(l[:i]))))
         loop_count += 1
-    print (f'SELECTION SORT V2 LOOP COUNT: {loop_count}')
+    print ('SELECTION SORT V2 LOOP COUNT: {0}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
 
@@ -94,17 +94,17 @@ def selection_sort_v3(l):
     for i in range(len(l)):
         l.insert(0, l.pop(l.index(max(l[i:]), i)))
         loop_count += 1
-    print (f'SELECTION SORT V3 LOOP COUNT: {loop_count}')
+    print ('SELECTION SORT V3 LOOP COUNT: {}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
 
 @time_it
 def selection_sort_v4(l):
     loop_count = 0
-    for i in range(len(l)):
+    for i in range(len(l):
         l.append(l.pop(l.index(min(l[:len(l)-i]))))
         loop_count += 1
-    print (f'SELECTION SORT V4 LOOP COUNT: {loop_count}')
+    print ('SELECTION SORT V4 LOOP COUNT: {0}'.format(loop_count))
 #     print (f'SORTED: {l}')
     return l
 
@@ -112,19 +112,19 @@ def selection_sort_v4(l):
 
 # l = refactor_l()
 # ascending_sort_v1(l)
-#   
+#
 # l = refactor_l()
 # ascending_sort_v2(l)
-#  
+#
 # l = refactor_l()
 # bubble_sort(l)
-#  
+#
 # l = refactor_l()
 # selection_sort(l)
-#  
+#
 # l = refactor_l()
 # selection_sort_v2(l)
-#  
+#
 # l = refactor_l()
 # selection_sort_v3(l)
 
@@ -133,6 +133,6 @@ selection_sort_v4(l)
 
 # l = refactor_l()
 # l = sorted(l)
-# 
+#
 # l = refactor_l()
 # l.sort()
