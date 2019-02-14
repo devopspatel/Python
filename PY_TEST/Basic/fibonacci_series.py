@@ -1,13 +1,48 @@
 import itertools as it
- 
+import datetime
+
+def time_it(func):
+    def wrapper(*args, **kwargs):
+        start = datetime.datetime.now()
+        result = func(*args, **kwargs)
+        end = datetime.datetime.now()
+        print ('Functiona: {0} --- Time: {1}'.format(func.__name__,end-start))
+        return result
+    return wrapper
+
 # HIGH COMPUTE POWER
 def fib_v1(n):
     return n if n==0 or n==1 else fib_v1(n-1) + fib_v1(n-2)
 
 lst = []
+start = datetime.datetime.now()
 for i in range(30):
     lst.append(fib_v1(i))
-print(f'V1 --- {i} > {lst}')
+end = datetime.datetime.now()
+print('V1 --- {0} > {1} >>> Time: {2}'.format(i, lst, end-start))
+
+# HIGH COMPUTE POWER WITH CACHE (Check out this video > https://www.youtube.com/watch?v=Qk0zUZW-U_M)
+fib_cache = {}
+def fib_v1_cache(n):
+    if (n in fib_cache):
+        return fib_cache[n]
+
+    if (n == 0 or n == 1):
+        val = n
+    else:
+        val = fib_v1_cache(n-1) + fib_v1_cache(n-2)
+
+    # Caching the most recently computed values
+    fib_cache[n] = val
+
+    return val
+
+lst = []
+start = datetime.datetime.now()
+for i in range(35):
+    lst.append(fib_v1_cache(i))
+end = datetime.datetime.now()
+print('V1_CACHE --- {0} > {1} >>> Time: {2}'.format(i, lst, end-start))
 
 ###########################################################################################################
 
@@ -15,13 +50,13 @@ print(f'V1 --- {i} > {lst}')
 def fib_v2(n, lst):
 #     return n if (n==0 or n==1) else (lst[n-2] + lst[n-1])
     return n if (n==0 or n==1) else (lst[0] + lst[1])
-   
+
 lst = []
 for i in range(30):
     lst.append(fib_v2(i, lst[-2:]))
-         
+
 print (f'V2 --- {i} > {lst}')
-    
+
 ###########################################################################################################
 
 # NUMBER OF STEPS
