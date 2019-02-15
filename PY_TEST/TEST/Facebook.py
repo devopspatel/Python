@@ -62,17 +62,12 @@ def find_ship(grid_size):
     if (grid_size < 3):
         return 'Not Valid Grid'
 
-    d = []
     for i in range(1, grid_size + 1):
         for j in range(1, grid_size + 1):
             if (hit_location(i, j)):
-                d.append((i, j))
-                if (hit_location(i, j+1) and hit_location(i, j+2)):
-                    d.append((i, j+1))
-                    d.append((i, j+2))
+                if (hit_location(i, j+1)):
+                    return ((i, j), (i, j+1), (i, j+2))
                 else:
-                    d.append((i+1, j))
-                    d.append((i+2, j))
-                return tuple(d)
+                    return ((i, j), (i+1, j), (i+2, j))
 
 print(find_ship(8))
